@@ -21,9 +21,5 @@ Discovering insights in the following dataset.
 * **Nikhil Lahoti**
   - [nikhillahoti](https://github.com/nikhillahoti)
 
-## Acknowledgments
-
-* This project was inspired by [Offline Detection of Influential
-  Users](https://web.stanford.edu/class/cs224w/projects/cs224w-64-final.pdf)
 
 
